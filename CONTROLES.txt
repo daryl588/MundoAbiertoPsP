@@ -1,0 +1,1 @@
+D-pad: movimiento\nCIRCLE: vehículo\nTRIANGLE: cambiar misión\nX: completar objetivo\nSELECT: pintura\nSQUARE: acelerar simulado\nSTART: salir\n
